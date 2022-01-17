@@ -1,0 +1,135 @@
+[
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_dmean_3500_it_2/raw/main/optical_lv_dmean_3500_it.json",
+    "id_item": "optical_lv_dmean_3500_it",
+    "id_album": "570943552",
+    "english": "optical",
+    "list_mean": [
+      "(thuộc) thị giác",
+      "(thuộc) quang học"
+    ],
+    "hash_code_list_mean": "607769524",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809700484_58ea93d414_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809700484_5295b120eb_o.png",
+        "id_image": "optical_286535"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809700444_84e7d926e8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809700444_3b023cfaf4_o.png",
+        "id_image": "optical_4106094"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809700389_ec979d1f8b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809700389_995f47d81a_o.png",
+        "id_image": "optical_4106327"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810082775_c1cf3dbf4f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810082775_25f6bed493_o.png",
+        "id_image": "optical_948492"
+      }
+    ],
+    "hash_code_list_img": "-1765753183",
+    "list_example": [
+      "optical effects and sound effects",
+      "optical instruments"
+    ],
+    "hash_code_list_example": "-409156957"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_dmean_3500_it_0/raw/main/cervical_lv_dmean_3500_it.json",
+    "id_item": "cervical_lv_dmean_3500_it",
+    "id_album": "570943552",
+    "english": "cervical",
+    "list_mean": [
+      "(giải phẫu) thuộc về cổ"
+    ],
+    "hash_code_list_mean": "-105538584",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809430728_88d9350547_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809430728_126ca39629_o.png",
+        "id_image": "cervical_3217864"
+      }
+    ],
+    "hash_code_list_img": "802853631",
+    "list_example": [
+      "cervical vertebrae"
+    ],
+    "hash_code_list_example": "-2017775630"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_dmean_3500_it_0/raw/main/consent_lv_dmean_3500_it.json",
+    "id_item": "consent_lv_dmean_3500_it",
+    "id_album": "570943552",
+    "english": "consent",
+    "list_mean": [
+      "sự đồng ý; sự ưng thuận; sự cho phép",
+      "( to consent to something ) bằng lòng; ưng thuận"
+    ],
+    "hash_code_list_mean": "63883669",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808354707_12e28239ae_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808354707_f3ea7c631b_o.png",
+        "id_image": "consent_1076357"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810047325_d4d331bd77_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810047325_cd7ae5e8b7_o.png",
+        "id_image": "consent_2720491"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808354647_5302ceed25_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808354647_c079b32a6f_o.png",
+        "id_image": "consent_4412631"
+      }
+    ],
+    "hash_code_list_img": "-1815065703",
+    "list_example": [
+      "her parents refused their consent to the marriage",
+      "he gave his consent for the project to get under way",
+      "to consent to a plan",
+      "she won't consent to him staying out late /to his staying out late"
+    ],
+    "hash_code_list_example": "1594117834"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/lv_dmean_3500_it_3/raw/main/surgery_lv_dmean_3500_it.json",
+    "id_item": "surgery_lv_dmean_3500_it",
+    "id_album": "570943552",
+    "english": "surgery",
+    "list_mean": [
+      "khoa phẫu thuật; sự mổ",
+      "phòng khám bệnh; giờ khám bệnh",
+      "(thông tục) thời gian một nghị sĩ gặp những người dân mà ông ta đại diện để họ hỏi ý kiến; buổi tiếp dân"
+    ],
+    "hash_code_list_mean": "1532123491",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809335686_4dd210d99f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809335686_3674f3b17a_o.png",
+        "id_image": "surgery_5154786"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809690909_9e8033c8f6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690909_b5d1cdc008_o.png",
+        "id_image": "surgery_6093461"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808380692_5e52239072_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808380692_30fd899a19_o.png",
+        "id_image": "surgery_6093473"
+      }
+    ],
+    "hash_code_list_img": "-171693708",
+    "list_example": [
+      "qualified in surgery and medicine",
+      "surgery hours",
+      "surgery lasts from 9 am to 10 am"
+    ],
+    "hash_code_list_example": "-1811932179"
+  }
+]
